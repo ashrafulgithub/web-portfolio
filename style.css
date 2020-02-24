@@ -4,6 +4,16 @@ body{
 h1{
     font-size: 50px;
 }
-.n{
+.name-highlight{
     color:orange;
+
+    }
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
 }
